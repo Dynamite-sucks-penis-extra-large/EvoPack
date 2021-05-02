@@ -1,0 +1,38 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "NuclearWaster",
+      "type": "biome",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nuclear_waster"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "biome.evomod.nuclear_waster": "Nuclear Waste"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "evomod",
+    "modName": "EvoMod",
+    "version": "1.0.0",
+    "author": "Rui, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.evomod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

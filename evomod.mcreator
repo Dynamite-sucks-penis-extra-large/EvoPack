@@ -9,13 +9,33 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "nuclear_waster"
+    },
+    {
+      "name": "EvoMod",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "evo_mod"
+    },
+    {
+      "name": "PlutoniumOre",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutonium_ore"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "biome.evomod.nuclear_waster": "Nuclear Waste"
+      "block.evomod.plutonium_ore": "Plutonium Ore",
+      "biome.evomod.nuclear_waster": "Nuclear Waste",
+      "itemGroup.tabevo_mod": "Evo Mod"
     }
   },
   "workspaceSettings": {

@@ -1,3 +1,5 @@
 {
-  "biome.evomod.nuclear_waster": "Nuclear Waste"
+  "block.evomod.plutonium_ore": "Plutonium Ore",
+  "biome.evomod.nuclear_waster": "Nuclear Waste",
+  "itemGroup.tabevo_mod": "Evo Mod"
 }
